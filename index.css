@@ -1,0 +1,31 @@
+body,html{
+    margin: 0 auto;
+    height: 100%;
+}
+
+#imagen{
+    width: 150px;
+    height: 300px;
+    float: left;
+    border: 3px solid red;
+}
+
+#foto{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 14px;
+}
+
+#texto{
+    text-align: center;
+    margin:0 auto;
+}
+
+#destino{
+    width: 150px;
+    height: 300px;
+    float: right;
+    border: 3px solid black;
+}
